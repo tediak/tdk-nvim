@@ -13,4 +13,5 @@ Most important key bindings:
 - `<C-\>` - toggle last opened floating terminal. If you need multiple, use `1<C-\>`, `2<C-\>` etc;
 - `<C-h>` (`j`/`k`/`l`) - move between split panes;
 - `[d` / `]d` - move through diagnostics;
+
 ... and even more keys you can find in configuration. Just look into TODO comments.
