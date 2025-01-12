@@ -2,6 +2,8 @@
 
 It just works and that's it.
 
+<img width="1724" alt="image" src="https://github.com/user-attachments/assets/9b8d36c7-ed7b-4f2f-be9b-2c2860aff571" />
+
 **⚠️ Warning**: this configuration works properly, though it should (will) be refactored later. 
 
 ## Installation
