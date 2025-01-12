@@ -1,3 +1,4 @@
+-- TODO: main keymap file
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 
