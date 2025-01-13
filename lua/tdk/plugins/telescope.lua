@@ -43,6 +43,7 @@ return {
 
     -- TODO: you may want to change telescope key bindings
     vim.keymap.set("n", "<leader>fs", function()
+      builtin.live_grep()
     end, { desc = "Live grep" })
 
     vim.keymap.set("n", "<leader>fd", function()
