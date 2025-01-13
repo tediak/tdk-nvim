@@ -4,7 +4,6 @@ return {
   dependencies = {
     "nvim-lua/plenary.nvim",
     "folke/todo-comments.nvim",
-    "folke/snacks.nvim",
   },
   config = function()
     local telescope = require("telescope")
@@ -44,7 +43,6 @@ return {
 
     -- TODO: you may want to change telescope key bindings
     vim.keymap.set("n", "<leader>fs", function()
-      Snacks.dashboard.pick("live_grep")
     end, { desc = "Live grep" })
 
     vim.keymap.set("n", "<leader>fd", function()

@@ -43,7 +43,6 @@ Key plugins:
 - `mason.nvim` - for LSP management
 - `blink.cmp` - for autocompletion;
 - `oil.nvim` - file manager;
-- `snacks.nvim` - UI enhancements;
 
 Also there:
 - formatting via `conform`
